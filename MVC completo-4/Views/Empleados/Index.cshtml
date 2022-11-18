@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Lista De Empleados con EF";
+}
+
+<h2>@ViewBag.Title</h2>
+<br />
+<br />
+@if (Model != null)
+{
+    using (Html.BeginForm())
+    { 
+    <select id="selAreas" onchange="SetArea(this.value);">
+        <option value="0">Selecciona Empleado</option>
+        @foreach (DAL.Modelo.Empleado empleados in Model)
+        {
+            <option value="@empleados.Id">@empleados.Nombre</option>
+        }
+</select>
+<input type="submit" value="Buscar Area"/>
+<input type="hidden" id="area_id" name="area_id" value="0"/>
+    }
+}
+<script>
+    function SetArea(id)
+    {
+    document.getElementById('area_id').value=id;
+    }
+</script>

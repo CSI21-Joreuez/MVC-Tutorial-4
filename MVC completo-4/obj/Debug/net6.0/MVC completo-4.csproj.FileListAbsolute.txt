@@ -1,0 +1,51 @@
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\appsettings.json
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\MVC completo-4.staticwebassets.runtime.json
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\MVC completo-4.exe
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\MVC completo-4.deps.json
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\MVC completo-4.runtimeconfig.json
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\MVC completo-4.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\MVC completo-4.pdb
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.csproj.AssemblyReference.cache
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.AssemblyInfoInputs.cache
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.AssemblyInfo.cs
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.csproj.CoreCompileInputs.cache
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.RazorAssemblyInfo.cache
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.RazorAssemblyInfo.cs
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\scopedcss\bundle\MVC completo-4.styles.css
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\scopedcss\projectbundle\MVC completo-4.bundle.scp.css
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.csproj.CopyComplete
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\refint\MVC completo-4.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.pdb
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\MVC completo-4.genruntimeconfig.cache
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\obj\Debug\net6.0\ref\MVC completo-4.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Npgsql.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\DAL.dll
+C:\Users\JOD\source\repos\MVC completo-4\MVC completo-4\bin\Debug\net6.0\DAL.pdb
